@@ -1,2 +1,2 @@
-# Bricotintas
-Imagens alojadas
+# Imagens
+Assinaturas
